@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Check numbers</string>
+    <string name="titulo">Type a number</string>
+    <string name="esPrimo">Is it prime?</string>
+    <string name="esPar">Is it even?</string>
+    <string name="esPerfecto">Is it perfect?</string>
+    <string name="error">Please type a number</string>
+    <string name="respuesta">The number</string>
+    <string name="si">"is "</string>
+    <string name="no">is not</string>
+    <string name="primo">a prime number.</string>
+    <string name="par">is even.</string>
+    <string name="perfecto">is a perfect number.</string>
+    <string name="requerido">Required</string>
+</resources>

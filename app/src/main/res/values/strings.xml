@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Checa números</string>
+    <string name="titulo">Ingresa un número</string>
+    <string name="esPrimo">¿Es primo?</string>
+    <string name="esPar">¿Es par?</string>
+    <string name="esPerfecto">¿Es perfecto?</string>
+    <string name="error">Por favor ingresa un número</string>
+    <string name="respuesta">El número</string>
+    <string name="si"> sí </string>
+    <string name="no"> no </string>
+    <string name="primo"> es primo.</string>
+    <string name="par">es par.</string>
+    <string name="perfecto">es perfecto.</string>
+    <string name="requerido">Requerido</string>
+</resources>
